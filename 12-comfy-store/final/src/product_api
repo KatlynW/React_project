@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "id": 19,
+            "attributes": {
+                "title": "Create An App",
+                "description": "After being provided the information and verifying that I can do it, I will create an app for you. The price is subject to change depending on the complexity of the app, but it starts at $20 per hour for a simple app.",
+                "featured": true,
+                "category": "Technology",
+                "image": "",
+                "price": "2000",
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 10,
+            "pageCount": 3,
+            "total": 22
+        },
+        "categories": [
+            "all",
+            "Technology",
+            "Other"
+        ]
+    }
+}
